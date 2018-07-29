@@ -1,0 +1,4 @@
+pageObjects/LoginPageObject.class
+baseTests/BaseClass.class
+utilities/ReadProperties.class
+utilities/Home24Utilities.class

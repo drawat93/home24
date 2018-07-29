@@ -1,0 +1,12 @@
+2018-07-26 17:40:07,498 - tests.TestLogin -INFO - ###########Opening Browser##########
+2018-07-26 17:40:17,221 - pageObjects.LoginPageObject -INFO - User is clicking on Country pop up
+2018-07-26 17:40:17,369 - utilities.Home24Utilities -INFO - Reading Excel file credentials
+2018-07-26 17:40:18,451 - utilities.Home24Utilities -INFO - Reading of excel file credentials is completed
+2018-07-26 17:40:18,525 - pageObjects.LoginPageObject -INFO - User is entering username: deepanshutest@gm.co
+2018-07-26 17:40:18,917 - pageObjects.LoginPageObject -INFO - User is entering password sasdasd
+2018-07-26 17:40:19,037 - pageObjects.LoginPageObject -INFO - User is clicking on Sign In
+2018-07-26 17:40:27,750 - pageObjects.LoginPageObject -INFO - Checking if login error message is coming
+2018-07-26 17:40:27,826 - tests.TestLogin -INFO - Test method verifyInvalidLogin is passed
+2018-07-26 17:40:27,833 - pageObjects.LoginPageObject -INFO - User is clicking on Sign In
+2018-07-26 17:40:33,136 - tests.TestLogin -INFO - Test method verifyLoginValidationChecks is passed
+2018-07-26 17:40:33,608 - tests.TestLogin -INFO - ###########Closing Browser##########
